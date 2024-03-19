@@ -1,1 +1,1 @@
-export const message = "Hello world!";
+export const message = "Test of the git code";
