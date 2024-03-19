@@ -1,1 +1,1 @@
-export const message = "Test of the git code - 498";
+export const message = "Test of the git code - 99";
