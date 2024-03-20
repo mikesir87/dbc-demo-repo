@@ -1,1 +1,1 @@
-export const message = "booth exercise - recursing_volhard - 670";
+export const message = "booth exercise - objective_mirzakhani - 590";
