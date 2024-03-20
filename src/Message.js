@@ -1,1 +1,1 @@
-export const message = "booth exercise - rashan - 342";
+export const message = "booth exercise - raks - 784";
