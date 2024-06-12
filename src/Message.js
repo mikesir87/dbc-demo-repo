@@ -1,1 +1,1 @@
-export const message = "booth exercise - saji - 829";
+export const message = "onboarding demo";
