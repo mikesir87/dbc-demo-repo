@@ -1,1 +1,1 @@
-export const message = "booth exercise - relaxed_perlman - 705";
+export const message = "booth exercise - radu - 688";
